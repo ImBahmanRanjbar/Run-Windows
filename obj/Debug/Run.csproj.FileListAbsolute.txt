@@ -1,0 +1,10 @@
+G:\projects\RunWindos\Run\Run\bin\Debug\Run.exe.config
+G:\projects\RunWindos\Run\Run\bin\Debug\Run.exe
+G:\projects\RunWindos\Run\Run\bin\Debug\Run.pdb
+G:\projects\RunWindos\Run\Run\obj\Debug\Run.Form1.resources
+G:\projects\RunWindos\Run\Run\obj\Debug\Run.Properties.Resources.resources
+G:\projects\RunWindos\Run\Run\obj\Debug\Run.csproj.GenerateResource.Cache
+G:\projects\RunWindos\Run\Run\obj\Debug\Run.exe
+G:\projects\RunWindos\Run\Run\obj\Debug\Run.pdb
+G:\projects\RunWindos\Run\Run\obj\Debug\Run.csproj.AssemblyReference.cache
+G:\projects\RunWindos\Run\Run\obj\Debug\Run.csproj.CoreCompileInputs.cache
